@@ -1,3 +1,6 @@
+# About
+This branch is trying to unite the feature of choosing photo without crop and being able to compress the bitmap size under 1MB.
+
 # PhotoCropper
 
 PhotoCropper is a light-weight but sharp and smart tool to help you crop photos on android devices. By providing a simple callback interface for developers and encapsulating the tricky things of cropping photos into a library. It makes the logic much more easier and simpler. 
